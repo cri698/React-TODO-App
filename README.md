@@ -1,18 +1,3 @@
 # React-TODO-App-DDExample
-An example skeleton todo list application built in React for Developer Direction. 
 
-## Instructions
-1) First clone this repository. 
-
-`git clone
-`
-
-2) Install dependencies. (You should already have nodejs and npm installed in your machine, if not, install those before).
-
-`npm install
-`
-
-3) Run the sample application
-
-`npm start
-`
+<img width="1377" alt="Screen Shot 2022-06-03 at 10 22 54 PM" src="https://user-images.githubusercontent.com/79714014/171974565-61dce00c-66e2-4dbd-bf3f-fd1dea949d85.png">
